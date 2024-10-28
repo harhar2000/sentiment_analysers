@@ -1,4 +1,4 @@
-# Sentiment Analysis of Movie Reviews
+# Sentiment Analysers
 
 I created this project as a learning exercise to explore basic machine learning concepts, including data pre-processing, feature extraction, model training and evaluation. The goal of the project was to build a sentiment analysis classifier that can identify if a movie review is positive or negative.
 
