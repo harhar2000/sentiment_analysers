@@ -65,6 +65,6 @@ def predict_sentiment(text):
     prediction = model.predict(text_vector)
     return prediction[0]
 
-print(predict_sentiment("I aboslutely loved this movie! It was fantastic"))
+print(predict_sentiment("I absolutely loved this movie! It was fantastic"))
 print(predict_sentiment("Terrible film! I hated it"))
 print(predict_sentiment("The move was okay, nothing special"))
